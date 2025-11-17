@@ -11,6 +11,5 @@
 Sou estudante de **Ciência da Computação** no **Centro Universitário do Distrito Federal (UDF)**. Apaixonado por tecnologia, estou sempre em busca de aprender novas linguagens e aprimorar minhas habilidades em desenvolvimento de software.
 
 * 🎓 Cursando Ciência da Computação na **UDF**.
-* 🌱 Atualmente estudando: **Java, Python e Estrutura de Dados.**
-* 💡 Interessado em: **Desenvolvimento Back-end e Engenharia de Software.**
-* 📫 Como me encontrar: **[Seu Email Aqui]**
+* 💡 Interessado em: **Desenvolvimento Back-end**
+* 📫 Como me encontrar: **jjoaomanuel19@gmail.com**
